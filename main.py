@@ -8,7 +8,7 @@ BG_COLOR = (1, 1, 1)
 
 def main():
     pygame.init()
-    print("Starting asteroids!")
+    print("Starting Asteroids!")
     print(f"Screen width: {SCREEN_WIDTH}")
     print(f"Screen height: {SCREEN_HEIGHT}")
     screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_WIDTH))

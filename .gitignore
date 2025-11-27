@@ -37,6 +37,9 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+# Logs
+game_state.jsonl
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
